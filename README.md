@@ -23,7 +23,7 @@ I care about systems that work under real load, real compliance, and real conseq
 - **[opencode](https://github.com/gtheys/opencode)** — Agents, subagents, and commands for agentic development workflows
 - **[Pi Agent](https://github.com/gtheys/pi-my-rifle-ext)** — My preffered way to code with AI
 - **[geert.md](https://github.com/gtheys/geert.md)** — My corner of the web, built to be LLM-accessible
-- **[Pi Agent Plugin: per commit spend]([https://github.com/gtheys/geert.md](https://github.com/gtheys/pi-per-commit-spend)** — Pi Agent plugin keeping track how much each commits costs me
+- **[Pi Agent Plugin: per commit spend](https://github.com/gtheys/pi-per-commit-spend)** — Pi Agent plugin keeping track how much each commits costs me
 - **[Noctalia Quickshell Plugin repo](https://github.com/gtheys/noctalia-unofficial-plugins)** — I love quickshell and build some plugins for it you can easily add to noctalia
 - **[setup-honcho](https://github.com/gtheys/setup-honcho)** — One-script local Honcho bootstrap + OpenCode MCP setup
 - **[dotfiles](https://github.com/gtheys/dotfiles)** — How I set up my machines
