@@ -20,8 +20,8 @@ I care about systems that work under real load, real compliance, and real conseq
 
 ### Pinned work
 
-- **[opencode](https://github.com/gtheys/opencode)** — Agents, subagents, and commands for agentic development workflows
 - **[Pi Agent](https://github.com/gtheys/pi-my-rifle-ext)** — My preffered way to code with AI
+- **[jira-aven-sync](https://github.com/gtheys/jira-aven-sync)** — Implemented [aven](https://aven.raine.dev/) over taskwarrior this replaces my bugwarrior Jira sync
 - **[geert.md](https://github.com/gtheys/geert.md)** — My corner of the web, built to be LLM-accessible
 - **[dms-codeburn](https://github.com/gtheys/dms-codeburn)** — Dank Linux Plugin showing [codeburn](https://codeburn.app/) statistics in Dank Linux menubar
 - **[setup-honcho](https://github.com/gtheys/setup-honcho)** — One-script local Honcho bootstrap + OpenCode MCP setup
